@@ -12,5 +12,6 @@ social:
 image: "/images/apc_0040-64.png"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Sean Sosik-Hamor is a lifestyle, event, and urban street photographer covering the Greater Boston and Southern New Hampshire areas.
+
+Based in scenic Pelham, New Hampshire, other projects include photojournalism, writing, events planning, product photography, website and graphic design, portraits and headshots, operations security, Wi-Fi and Ethernet network design, and data center engineering.
