@@ -4,8 +4,8 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: MediaOps Consultation for Remote Workforce<br />and Distance Learning
-  content: A new normal means a new way of accomplishing things. Let Sosik-Hamor Networks
-    guide you<br />through revitalizing your workspace and infrastructure.
+  content: A new normal means a new way of living life and accomplishing tasks. Let
+    Sosik-Hamor Networks<br />guide you through revitalizing your workspace and infrastructure.
   button:
     enable: true
     label: Services and Solutions
@@ -25,7 +25,7 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: "/images/featue-bg.jpg"
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
@@ -55,7 +55,7 @@ cta:
 funfacts:
   enable: true
   title: Fun Facts
-  description: Some statistics are important. Some statistics are just fun.
+  description: Some statistics are important. Some statistics are just plain fun.
   funfact_item:
   - icon: ion-camera
     name: Original Photographs Published
