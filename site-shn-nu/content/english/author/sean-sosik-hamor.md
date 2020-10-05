@@ -9,7 +9,7 @@ social:
   link: https://twitter.com/sciri
 - icon: ion-social-pinterest-outline
   link: https://www.pinterest.com/SeanSosikHamor/
-image: "/images/apc_0040-64.png"
+image: "/images/20180915-143523-sean-sosik-hamor-profile-0040-edit-cl-1080.jpg"
 
 ---
 Sean Sosik-Hamor is a lifestyle, event, and urban street photographer covering the Greater Boston and Southern New Hampshire areas.
