@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/slider-bg.jpg"
   bg_overlay: true
   title: MediaOps Consultation for Remote Workforce<br />and Distance Learning
-  content: An unpredictable world means a new way of living life and accomplishing
-    daily tasks. Sosik-Hamor Networks will help you adapt,<br />and guide you through
-    revitalizing your workspaces and infrastructure.
+  content: |-
+    An unpredictable world means a new way of living life and accomplishing daily tasks. Sosik-Hamor Networks
+    will help you adapt, and guide you through revitalizing your workspaces and infrastructure.
   button:
     enable: true
     label: Services and Solutions
@@ -15,35 +15,26 @@ about:
   enable: true
   title: Sosik-Hamor Networks is MediaOps
   description: 'Small office, home office, and distance learning environments have
-    decisively changed with the new normal. '
-  content: 'MediaOps is the amalgamation of modern technologies and services required
-    for reliable and gratifying remote workforce and distance learning.  '
-  image: images/wrapper-img.png
+    irrevocably changed due to the COVID-19 pandemic. '
+  content: 'MediaOps is the amalgamation of modern, secure technologies and services
+    required for a reliable remote workforce and gratifying distance learning. '
+  image: "/images/wrapper-img.png"
 portfolio:
   enable: true
   bg_image: "/images/featue-bg.jpg"
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Productivity is the end product
+  content: Productivity is the end product
   button:
     enable: true
-    label: View Works
+    label: Projects
     link: project
 service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  bg_image: "/images/call-to-action-bg.jpg"
+  title: We design gratifying workspaces and productive online experiences.
+  content: Tell us your story, and let us know the quirks in your current workspace.
   button:
     enable: true
     label: Tell Us Your Story
