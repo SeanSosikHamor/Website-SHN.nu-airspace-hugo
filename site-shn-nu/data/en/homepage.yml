@@ -30,7 +30,7 @@ portfolio:
 '
   button:
     enable: true
-    label: Projects
+    label: Browse Projects
     link: project
 service:
   enable: true
