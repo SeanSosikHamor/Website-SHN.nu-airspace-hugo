@@ -59,18 +59,18 @@ funfacts:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
   funfact_item:
-  - icon: ion-aperture
+  - icon: ion-camera
     name: Original Photographs Published
     count: "24877"
   - icon: ion-map
     name: Miles Traveled
     count: "462308"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+  - icon: ion-cube
+    name: Websites Developed
+    count: "42"
+  - icon: ion-ios-paw-outline
+    name: Cats
+    count: "2"
   testimonial_slider:
   - name: Kelly Sosik-Hamor
     image: images/clients/favicon-hamorhollow-pascal-256.png
