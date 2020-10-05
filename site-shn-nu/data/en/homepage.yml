@@ -23,9 +23,9 @@ portfolio:
   enable: true
   bg_image: "/images/featue-bg.jpg"
   title: Productivity is the end product
-  content: Productivity is the end product. Productivity is the end product. Productivity
+  content: " Productivity is the end product. Productivity is the end product. Productivity
     is the end product. Productivity is the end product. Productivity is the end product.
-    Productivity is the end product.
+    Productivity is the end product. "
   button:
     enable: true
     label: Projects
