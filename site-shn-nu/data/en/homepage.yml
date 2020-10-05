@@ -61,7 +61,7 @@ funfacts:
   funfact_item:
   - icon: ion-aperture
     name: Original Photographs Published
-    count: '24,877'
+    count: "24877"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
