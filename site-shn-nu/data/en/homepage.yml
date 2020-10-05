@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Services and Solutions
-    link: "/services-and-solutions"
+    link: "/service"
 about:
   enable: true
   title: About Us
