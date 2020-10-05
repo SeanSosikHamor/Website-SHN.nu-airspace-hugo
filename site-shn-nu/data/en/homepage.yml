@@ -25,7 +25,7 @@ portfolio:
   title: Productivity is the end product
   content: Productivity is the end product. Productivity is the end product. Productivity
     is the end product. Productivity is the end product. Productivity is the end product.
-    Productivity is the end product.<br />
+    Productivity is the end product.<br /><br />
   button:
     enable: true
     label: Browse Projects
