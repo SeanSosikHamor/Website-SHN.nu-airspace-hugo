@@ -4,24 +4,20 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: MediaOps Consultation for Remote Workforce<br />and Distance Learning
-  content: A new normal means a new way of living life and accomplishing tasks. Let
-    Sosik-Hamor Networks<br />guide you through revitalizing your workspace and infrastructure.
+  content: An unpredictable world means a new way of living life and accomplishing
+    daily tasks. Sosik-Hamor Networks will help you adapt,<br />and guide you through
+    revitalizing your workspaces and infrastructure.
   button:
     enable: true
     label: Services and Solutions
     link: "/service"
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: Sosik-Hamor Networks is MediaOps
+  description: 'Small office, home office, and distance learning environments have
+    decisively changed with the new normal. '
+  content: 'MediaOps is the amalgamation of modern technologies and services required
+    for reliable and gratifying remote workforce and distance learning.  '
   image: images/wrapper-img.png
 portfolio:
   enable: true
