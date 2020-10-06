@@ -1,4 +1,4 @@
-baseURL = "https://shn-nu-airspace-hugo-v2.netlify.app"
+baseURL = "https://shn.nu/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -23,10 +23,6 @@ weight = 2
 URL = "service"
 name = "Services"
 weight = 3
-#[[Languages.en.menu.footer]]
-#URL = "pricing"
-#name = "Pricing"
-#weight = 4
 [[Languages.en.menu.footer]]
 URL = "faq"
 name = "FAQ"
@@ -55,18 +51,6 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 5
-#[[Languages.en.menu.main]]
-#hasChildren = true
-#name = "Pages"
-#weight = 6
-#[[Languages.en.menu.main]]
-#URL = "faq"
-#name = "FAQ"
-#parent = "Pages"
-#[[Languages.en.menu.main]]
-#URL = "pricing"
-#name = "Pricing"
-#parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
@@ -88,10 +72,9 @@ google_analitycs_id = "UA-85682-14"
 location = "8 Lisa Terrace, Pelham, NH  03076-3110"
 logo = "/images/logo.png"
 logo_width = "181px"
-# Contact uses phone. FAQ uses mobile. Define the phone number both ways here.
-phone = "+1 330 828 6881"
 mobile = "+1 330 828 6881"
 multi_author = false
+phone = "+1 330 828 6881"
 [params.cookies]
 enable = true
 expire_days = 2
