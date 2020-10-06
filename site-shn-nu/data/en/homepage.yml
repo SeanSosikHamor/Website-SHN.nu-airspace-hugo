@@ -14,10 +14,17 @@ banner:
 about:
   enable: true
   title: Sosik-Hamor Networks is MediaOps
-  description: 'Small office, home office, and distance learning environments have
-    irrevocably changed due to the COVID-19 pandemic. '
-  content: 'MediaOps is the amalgamation of modern, secure technologies and services
-    needed for reliable remote workforces, and engaging distance learning environments. '
+  description: Small office, home office, and distance learning environments have
+    irrevocably changed due to the COVID-19 pandemic. The solution is MediaOps.
+  content: "MediaOps is the amalgamation of modern, secure technologies, equipment,
+    and services needed for reliable remote workforces and engaging distance learning
+    environments. High-speed Wi-Fi networks and broadband internet connections are
+    now the bare minimum, and the many US households with members still sharing a
+    single mobile tablet or smartphone are falling behind.<br /><br />\n\nSavvy employees
+    and students have become accustomed to the professionally- and influencer-produced
+    HD video of YouTube channels and Instagram stories. And now, that same discerning
+    audience expects classroom presenters, webinar hosts, and remote team meeting
+    leads to "
   image: "/images/wrapper-img.png"
 portfolio:
   enable: true
