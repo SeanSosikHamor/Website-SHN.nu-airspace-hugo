@@ -2,9 +2,10 @@
 about:
   enable: true
   image: "/images/company/about.jpg"
-  title: Sosik-Hamor Networks is more than just MediaOps. We're an end-to-end service
-    provider.
-  content: From Think to Ink.
+  title: Sosik-Hamor Networks is more than just MediaOps.
+  content: We're an end-to-end service provider. Years ago, Hamor Marketing Group
+    penned the tagline, "From Think to Ink." The workflow of Sosik-Hamor Networks
+    follows the same end-to-end marketing principle.
   button:
     enable: true
     label: Services and Solutions
@@ -30,32 +31,26 @@ about:
     count: "115"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: The Sosik-Hamor Networks Process
   feature_item:
-  - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Brainstorming
+    content: ''
+  - icon: ion-ios-camera
+    name: Photography
+    content: ''
+  - icon: ion-document-text
+    name: Copywriting
+    content: ''
+  - icon: ion-ios-infinite
+    name: Design
+    content: ''
+  - icon: ion-ios-gear
+    name: Deployment
+    content: ''
+  - icon: ion-wrench
+    name: Support
+    content: ''
 testimonial:
   enable: true
 mission_vision:
