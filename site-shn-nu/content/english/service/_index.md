@@ -1,6 +1,6 @@
 ---
 title: Service
-description: REPLACE service description
+description: INDEX service description
 bg_image: "/images/featue-bg.jpg"
 
 ---
