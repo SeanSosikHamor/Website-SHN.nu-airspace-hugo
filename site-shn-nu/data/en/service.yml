@@ -38,36 +38,26 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
+  - icon: ion-wifi
+    name: Enterprise-Class Wi-Fi Networks
+    content: Cloud-managed Wi-Fi access point installation and configuration.
+  - icon: ion-network
+    name: Enterprise-Class Wired Ethernet Networks
+    content: Cloud-managed wired Ethernet switch installation and configuration.
+  - icon: ion-ios-videocam
+    name: Streaming Video Cameras
+    content: Studio-quality video streaming using HD Webcams or your existing DSLR
+      or Mirrorless digital camera.
+  - icon: ion-cube
+    name: Website Design
+    content: Revitalize your web presence with a fresh WordPress, Squarespace, or
+      Jamstack website.
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: ion-image
     name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 cta:
