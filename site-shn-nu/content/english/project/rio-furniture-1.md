@@ -1,6 +1,7 @@
 ---
 title: Hamor Hollow Hedgehogs
-description: this is meta description
+description: USDA-Licensed Breeder and Rescue — Conveniently Located in Central New
+  England!
 image: "/images/screenshot-hamorhollow-com-20201006-1080.jpg"
 bg_image: images/featue-bg.jpg
 category: Website
