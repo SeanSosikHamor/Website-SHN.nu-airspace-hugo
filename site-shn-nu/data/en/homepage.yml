@@ -49,8 +49,8 @@ funfacts:
   description: Some statistics are important. Some statistics are just plain fun.
   funfact_item:
   - icon: ion-ios-circle-filled
-    name: Miles of Gaffer Tape Taped
-    count: "8.86"
+    name: Feet of Gaffer Tape Taped
+    count: "46800"
   - icon: ion-ios-paw-outline
     name: Cats
     count: "2"
