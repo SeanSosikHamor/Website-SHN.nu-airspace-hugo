@@ -16,7 +16,7 @@ about:
     name: Original Photographs Delivered
     count: "25167"
   - icon: ion-wifi
-    name: Enterprise Wi-Fi Networks Deployed
+    name: Enterprise Wi-Fi Networks Deployed Worldwide
     count: "98"
   - icon: ion-ios-people
     name: Satisfied Clients
@@ -25,7 +25,7 @@ about:
     name: Websites Developed and Deployed
     count: "51"
   - icon: ion-map
-    name: Miles Traveled
+    name: Miles Flown
     count: "462308"
 features:
   enable: true
