@@ -58,13 +58,6 @@ sections:
   label: Contact (en)
   create: none
   match: "*"
-- type: directory
-  path: site-shn-nu/content/english/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
 - type: heading
   label: Data
 - type: directory
@@ -89,6 +82,13 @@ sections:
   path: site-shn-nu/content/english
   label: DO NOT EDIT (en)
   create: all
+  match: "**/*"
+  templates:
+  - new-page
+- type: directory
+  path: site-shn-nu/content/english/pages
+  label: Created Pages (en)
+  create: documents
   match: "**/*"
   templates:
   - new-page
