@@ -8,15 +8,8 @@ sections:
   label: Pages
 - type: directory
   path: site-shn-nu/content/english
-  label: All Pages (en)
+  label: All English Pages (en)
   create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: site-shn-nu/content/english/pages
-  label: Created Pages (en)
-  create: documents
   match: "**/*"
   templates:
   - new-page
