@@ -29,10 +29,12 @@ portfolio:
   enable: true
   bg_image: "/images/featue-bg.jpg"
   title: Productivity is the end product…
-  content: We're firm believers in deploying the right tool for the job. From laptops,
-    tablets, and Wi-Fi networks to webcams, lighting, and backgrounds, the right tools
-    ensure more productive and gratifying work and learning environments.<br /><br
-    />
+  content: We're firm believers in deploying the right tool for the job, and the consumer-grade
+    and business-class equipment installed by many internet providers is no longer
+    sufficient for the task. From laptops, tablets, and affordable enterprise-class
+    Wi-Fi networks to HD webcams, studio lighting, and aesthetic backgrounds, the
+    right tools ensure more productive and gratifying work and learning environments.<br
+    /><br />
   button:
     enable: true
     label: Browse Projects
