@@ -22,10 +22,10 @@ about:
 portfolio:
   enable: true
   bg_image: "/images/featue-bg.jpg"
-  title: Productivity is the end product
-  content: Productivity is the end product. Productivity is the end product. Productivity
-    is the end product. Productivity is the end product. Productivity is the end product.
-    Productivity is the end product.<br /><br />
+  title: Productivity is the end product…
+  content: We're firm believers in deploying the right tool for the job. From computers
+    and networks to webcams and lighting, the right tools ensure a more productive
+    and gratifying work or learning environment.<br /><br />
   button:
     enable: true
     label: Browse Projects
@@ -36,7 +36,9 @@ cta:
   enable: true
   bg_image: "/images/call-to-action-bg.jpg"
   title: We design gratifying workspaces and productive online experiences.
-  content: Tell us your story, and let us know the quirks in your current workspace.
+  content: Tell us your story! Let us know about the productivity quirks, poor video
+    quality, or network glitches in your current workspace, and we'll show you what
+    we have to offer!
   button:
     enable: true
     label: Tell Us Your Story
