@@ -1,6 +1,7 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Client Portfolio
+description: Browse the various projects and solutions we've implemented for our satisfied
+  clients.
+bg_image: images/featue-bg.jpg
+
 ---
