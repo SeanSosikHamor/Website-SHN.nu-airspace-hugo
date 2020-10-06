@@ -8,7 +8,7 @@ sections:
   label: Pages
 - type: directory
   path: site-shn-nu/content/english
-  label: All English Pages (en)
+  label: All Pages (en)
   create: all
   match: "**/*"
   templates:
