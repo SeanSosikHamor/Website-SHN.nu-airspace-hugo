@@ -39,7 +39,7 @@ service:
     right at the coast of the Semantics
   service_item:
   - icon: ion-locked
-    name: Physical and Online Security
+    name: Safety and Security
     content: Security, privacy, and online safety, and training is deeply-ingrained
       in every solution we offer.
   - icon: ion-wifi
