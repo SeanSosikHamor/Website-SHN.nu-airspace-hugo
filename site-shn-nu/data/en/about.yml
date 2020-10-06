@@ -1,16 +1,14 @@
 ---
 about:
   enable: true
-  image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  image: "/images/company/about.jpg"
+  title: Sosik-Hamor Networks is more than just MediaOps. We're an end-to-end service
+    provider.
+  content: From Think to Ink.
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: Services and Solutions
+    link: "/service/"
   funfacts:
   - icon: ion-coffee
     name: Events Planned and Supported
