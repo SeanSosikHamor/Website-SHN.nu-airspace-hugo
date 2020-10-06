@@ -48,15 +48,9 @@ funfacts:
   title: Fun Facts
   description: Some statistics are important. Some statistics are just plain fun.
   funfact_item:
-  - icon: ion-camera
-    name: Original Photographs Delivered
-    count: "25167"
-  - icon: ion-map
-    name: Miles Traveled
-    count: "462308"
-  - icon: ion-cube
-    name: Websites Developed
-    count: "42"
+  - icon: ion-ios-circle-filled
+    name: Miles of Gaffer Tape Taped
+    count: "8.86"
   - icon: ion-ios-paw-outline
     name: Cats
     count: "2"
