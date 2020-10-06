@@ -15,15 +15,15 @@ about:
   - icon: ion-camera
     name: Original Photographs Delivered
     count: "25167"
+  - icon: ion-wifi
+    name: Enterprise Wi-Fi Networks Deployed
+    count: "98"
   - icon: ion-ios-flask-outline
     name: Completed Projects
     count: "349"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
     count: "75"
