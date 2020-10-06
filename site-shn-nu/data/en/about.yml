@@ -18,18 +18,12 @@ about:
   - icon: ion-wifi
     name: Enterprise Wi-Fi Networks Deployed
     count: "98"
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
-  - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+  - icon: ion-ios-people
+    name: Satisfied Clients
+    count: "115"
+  - icon: ion-link
+    name: Websites Developed and Deployed
+    count: "51"
 features:
   enable: true
   title: We are indepented Design & Development Agency
