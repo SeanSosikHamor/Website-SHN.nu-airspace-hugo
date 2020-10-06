@@ -1,7 +1,7 @@
 ---
-title: Our Pricing
+title: Sosik-Hamor Networks Pricing
 description: DRAFT pricing description
 bg_image: "/images/featue-bg.jpg"
 
 ---
-DRAFT
+EDIT IN DATA
