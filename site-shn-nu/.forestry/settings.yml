@@ -5,70 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
-- type: directory
-  path: site-shn-nu/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Author
-- type: directory
-  path: site-shn-nu/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
-  label: Project
-- type: directory
-  path: site-shn-nu/content/english/project
-  label: Project (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
-- type: heading
-  label: Others Pages
-- type: directory
-  path: site-shn-nu/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: site-shn-nu/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: site-shn-nu/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: site-shn-nu/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: site-shn-nu/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: site-shn-nu/content/english/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
+  label: Pages
 - type: directory
   path: site-shn-nu/content/english
   label: All Pages (en)
   create: all
+  match: "**/*"
+  templates:
+  - new-page
+- type: directory
+  path: site-shn-nu/content/english/pages
+  label: Created Pages (en)
+  create: documents
   match: "**/*"
   templates:
   - new-page
