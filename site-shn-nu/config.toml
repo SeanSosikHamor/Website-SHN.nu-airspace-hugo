@@ -94,7 +94,7 @@ enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "42.7291069"
 map_longitude = "-71.3289553"
-map_marker = "images/marker.png"
+map_marker = "/images/marker.png"
 [params.nav_button]
 enable = true
 label = "Get A Quote"
