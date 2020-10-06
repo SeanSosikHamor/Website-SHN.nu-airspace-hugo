@@ -35,7 +35,7 @@ portfolio:
     From laptops, tablets, and affordable enterprise-class Wi-Fi networks to HD webcams, studio lighting, and aesthetic backgrounds, the right tools ensure more productive and gratifying work and learning environments.<br /><br />
   button:
     enable: true
-    label: Browse Projects
+    label: Browse Solutions
     link: project
 service:
   enable: true
