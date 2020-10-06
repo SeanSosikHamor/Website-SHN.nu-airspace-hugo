@@ -1,8 +1,11 @@
 ---
 about:
   enable: true
-  title: We Don't Sell Products
-  content: We Architect Solutions.
+  title: We Don't Sell Products. We Architect Solutions.
+  content: |-
+    We’re firm believers in deploying the right tool for the job, and the consumer-grade and business-class equipment installed by many internet providers is no longer sufficient for remote work or distance learning.
+
+    From laptops, tablets, and affordable enterprise-class Wi-Fi networks to HD webcams, studio lighting, and aesthetic backgrounds, the right tools ensure more productive and gratifying work and learning environments.
   image: "/images/company/company-group-pic.jpg"
 featured_service:
   enable: true
