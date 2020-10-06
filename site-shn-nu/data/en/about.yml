@@ -12,24 +12,27 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-wifi
-    name: Enterprise Wi-Fi Networks Deployed Worldwide
-    count: "98"
-  - icon: ion-cube
-    name: Websites Developed and Deployed
-    count: "51"
-  - icon: ion-ios-camera
-    name: Original Photographs Delivered
-    count: "25167"
-  - icon: ion-ios-people
-    name: Satisfied Clients
-    count: "115"
   - icon: ion-coffee
     name: Events Planned and Supported
     count: "140"
   - icon: ion-map
     name: Miles Flown
     count: "462308"
+  - icon: ion-ios-camera
+    name: Original Photographs Delivered
+    count: "25167"
+  - icon: ion-wifi
+    name: Enterprise Wi-Fi Networks Deployed Worldwide
+    count: "98"
+  - icon: ion-cube
+    name: Websites Developed and Deployed
+    count: "51"
+  - icon: ion-ios-people
+    name: Satisfied Clients
+    count: "115"
+  - name: "8"
+    count: "8"
+    icon: ion-code-working
 features:
   enable: true
   title: We are indepented Design & Development Agency
