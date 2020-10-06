@@ -12,7 +12,7 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-camera
+  - icon: ion-ios-camera
     name: Original Photographs Delivered
     count: "25167"
   - icon: ion-wifi
