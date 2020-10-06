@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Sosik-Hamor Networks — MediaOps Consultation for Remote Workforce and Distance Learning"
+title = "Sosik-Hamor Networks — MediaOps Solutions for Remote Workforce and Distance Learning"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 1998–2020 [Sosik-Hamor Networks](https://shn.nu/). All rights reserved.<br />Photography by [Hamor Photography](https://hamor.com/)."
