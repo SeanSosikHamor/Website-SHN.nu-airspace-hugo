@@ -49,8 +49,8 @@ funfacts:
   description: Some statistics are important. Some statistics are just plain fun.
   funfact_item:
   - icon: ion-camera
-    name: Original Photographs Published
-    count: "24877"
+    name: Original Photographs Delivered
+    count: "25167"
   - icon: ion-map
     name: Miles Traveled
     count: "462308"
