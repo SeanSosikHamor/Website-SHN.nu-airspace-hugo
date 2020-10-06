@@ -48,6 +48,10 @@ service:
     name: Streaming Video Cameras
     content: Studio-quality video streaming using HD Webcams or your existing DSLR
       or Mirrorless digital camera.
+  - icon: ion-ios-camera
+    name: Photography
+    content: Corporate headshots, profile portraits, commercial-industrial, event,
+      and product photography.
   - icon: ion-cube
     name: Website Design
     content: Revitalize your web presence with a fresh WordPress, Squarespace, or
@@ -55,9 +59,8 @@ service:
   - icon: ion-coffee
     name: Brand and Image Management
     content: Discover and take control of web properties using your data for profit.
-  - icon: ion-ios-camera
-    name: Photography
-    content: Corporate headshots, profile portraits, commercial-industrial, event,
-      and product photography.
+  - icon: ion-social-instagram-outline
+    name: Social Media Management
+    content: Streamline your social media presence.
 cta:
   enable: true
