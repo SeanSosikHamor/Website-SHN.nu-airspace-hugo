@@ -53,12 +53,11 @@ service:
     content: Revitalize your web presence with a fresh WordPress, Squarespace, or
       Jamstack website.
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Brand and Image Management
+    content: Discover and take control of web properties using your data for profit.
+  - icon: ion-ios-camera
+    name: Photography
+    content: Corporate headshots, profile portraits, commercial-industrial, event,
+      and product photography.
 cta:
   enable: true
