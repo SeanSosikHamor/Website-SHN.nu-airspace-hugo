@@ -3,7 +3,17 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: site-shn-nu/content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: site-shn-nu/content/english
+  label: English
+  create: all
+  match: "**/*"
 upload_dir: site-shn-nu/static/images
 public_path: "/images"
 front_matter_path: ''
