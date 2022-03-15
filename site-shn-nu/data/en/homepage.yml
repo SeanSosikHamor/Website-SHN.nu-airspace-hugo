@@ -59,7 +59,10 @@ funfacts:
     name: Feet of Gaffer Tape Taped
     count: "46800"
   - icon: ion-ios-paw-outline
-    name: Cats
+    name: Rescue Cats
+    count: "2"
+  - icon: ion-ios-paw
+    name: Rescue Dogs
     count: "2"
   testimonial_slider:
   - name: Kelly Sosik-Hamor

@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Sosik-Hamor Networks — MediaOps Solutions for Remote Workforce and Distance Learning"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 1998–2020 [Sosik-Hamor Networks](https://shn.nu/). All rights reserved.<br />Photography by [Hamor Photography](https://hamor.com/)."
+copyright = "Copyright &copy; 1998–2022 [Sosik-Hamor Networks](https://shn.nu/). All rights reserved.<br />Photography by [Hamor Photography](https://hamor.com/)."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
